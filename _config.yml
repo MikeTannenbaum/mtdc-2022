@@ -11,8 +11,7 @@ mode: dark # default theme "dark" | "light"
 # Profile settings
 author:
   name: Mike Tannenbaum
-  bio: >- # tell to the world
-    I am a design strategy practitioner with a knack for building better systems.
+  bio: I am a design strategy practitioner with a knack for building better systems.
   username: miketannenbaum # general username
   github: miketannenbaum # github username
   twitter: miketnnnbm # twitter username
