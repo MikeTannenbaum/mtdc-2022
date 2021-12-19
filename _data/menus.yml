@@ -18,6 +18,9 @@
   url: https://refinedmind.co
   external: true # set true if you using external link, see below
 
+- title: work
+  url: https://mikeyt.xyz
+  external: false
 # Example:
 # - title: github
 #   url: https://github.com/piharpi/jekyll-klise

@@ -1,5 +1,5 @@
 ---
-title:  "A fresh start!"
+title:  "Starting fresh in 2022"
 ---
 Wiping the slate clean, excited for a new online presence.
 
@@ -10,4 +10,5 @@ I am me, with many interests, and this is my home on the internet.
 Here's to a new year, a better year, and to the future of the internet.
 
 Mike
+
 December 19, 2021
