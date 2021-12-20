@@ -11,12 +11,12 @@ mode: dark # default theme "dark" | "light"
 # Profile settings
 author:
   name: Mike Tannenbaum
-  bio: I am a design strategy practitioner with a knack for building better systems.
+  bio: Design strategy practitioner with a knack for building better systems. Org design, web3, and the environment. Works at The Recycling Partnership.
   username: miketannenbaum # general username
   github: miketannenbaum # github username
   twitter: miketnnnbm # twitter username
   facebook: nope # facebook username
-  email: me@miketannenbaum.com # email adress
+  email: me@mikeyt.xyz # email adress
   avatar: /assets/img/mike-SA-headshot-circle.jpeg # change with your own avatar
 
 # URL settings
