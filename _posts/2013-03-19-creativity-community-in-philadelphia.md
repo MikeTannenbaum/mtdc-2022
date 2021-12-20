@@ -1,6 +1,6 @@
 ---
 id: 82
-title: 'Creativity &#038; Community in Philadelphia'
+title: Creativity & Community in Philadelphia
 date: 2013-03-19T12:42:13-04:00
 author: Mike Tannenbaum
 excerpt: 'As I spend my time exploring Philadelphia I’ve noticed our city has a vibe unlike anything I’ve felt in the past. As such, I’ve recently identified a personal mission: Make cool shit while helping construct a better world.'

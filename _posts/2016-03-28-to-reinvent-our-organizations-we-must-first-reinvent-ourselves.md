@@ -42,7 +42,7 @@ tags:
 <p id="4391" class="graf--p graf-after--p">And there, from that place of positivity, we’ll be able to have further positive impact on our colleagues, peers, friends, and all people within our networks. And that’s the change we need to see. Everyone reevaluating how they’re approaching their daily workflows <em class="markup--em markup--p-em">in tandem</em> with the leaders at the top reevaluating how they create positive organizational environments that empower the modern knowledge worker to produce their best work and enjoy how they spend their days.</p>
 
 <blockquote id="af0b" class="graf--pullquote pullquote graf-after--p">There’s no better time to adjust work habits and reinvent our lifestyles than today!</blockquote>
-<h4 id="a0bd" class="graf--h4 graf-after--pullquote graf--last">If you want to further discuss, please feel free to reach out any time <a class="markup--anchor markup--h4-anchor" href="https://twitter.com/theroyaltbomb" target="_blank" rel="nofollow noopener" data-href="https://twitter.com/theroyaltbomb">@TheRoyalTbomb</a>.</h4>
+<h4 id="a0bd" class="graf--h4 graf-after--pullquote graf--last">If you want to further discuss, please feel free to reach out any time <a class="markup--anchor markup--h4-anchor" href="https://twitter.com/miketnnnbm" target="_blank" rel="nofollow noopener" data-href="https://twitter.com/miketnnnbm">@miketnnnbm</a>.</h4>
 <section class="section section--body">
 <div class="section-divider">
 

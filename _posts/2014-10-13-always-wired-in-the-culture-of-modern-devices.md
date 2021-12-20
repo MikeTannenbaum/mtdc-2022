@@ -1,6 +1,6 @@
 ---
 id: 128
-title: 'Always Wired In &#8211; The Culture of Modern Devices'
+title: Always Wired In—The Culture of Modern Devices
 date: 2014-10-13T00:20:52-04:00
 author: Mike Tannenbaum
 excerpt: We’re so connected to connection that we always focus on filling our mental capacity and stimulating sensors in our brains that we’re detached from what it actually feels like to have real world feelings and interactions.

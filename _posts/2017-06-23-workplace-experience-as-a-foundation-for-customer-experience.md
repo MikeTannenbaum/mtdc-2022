@@ -16,7 +16,7 @@ tags:
   - management
   - org design
 ---
-<em>Disclaimer: this is a theory I'm currently exploring and working through, and is by no means a concrete thought written in stone. I wrote this in response to some <a href="https://twitter.com/TheRoyalTbomb/status/877584040018141184">dialogue on twitter</a>.</em>
+<em>Disclaimer: this is a theory I'm currently exploring and working through, and is by no means a concrete thought written in stone. I wrote this in response to some <a href="https://twitter.com/miketnnnbm/status/877584040018141184">dialogue on twitter</a>.</em>
 
 <hr />
 

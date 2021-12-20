@@ -56,5 +56,5 @@ Thank you again for your ongoing support! You're the absolute best, and I love y
 
 Let me know how I can support YOU in 2017! That's so much easier for me than asking for and receiving help ?.
 
-You can always find me <a href="https://twitter.com/theroyaltbomb">@TheRoyalTbomb</a> or <a href="mailto:m@enjoyhumanity.co">m@enjoyhumanity.co</a>.
+You can always find me <a href="https://twitter.com/miketnnnbm">@miketnnnbm</a> or <a href="mailto:m@enjoyhumanity.co">m@enjoyhumanity.co</a>.
 <h2>Happy New Year!</h2>

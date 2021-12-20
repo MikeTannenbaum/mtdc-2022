@@ -1,6 +1,6 @@
 ---
 id: 53
-title: 'Life Isn&#8217;t About Working'
+title: Life Isn't About Working
 date: 2013-06-10T01:22:39-04:00
 author: Mike Tannenbaum
 excerpt: There’s no path of least resistance. There’s not even a path. We’ve been placed in the middle of a giant forest, with very few tools for navigating, and told to survive.
@@ -43,4 +43,4 @@ This doesn’t say the pursuit of a paycheck. It says happiness.
 
 Let’s change society’s expectations by listening to what’s inside of us. Follow that voice, that feeling or that desire. Further explore your curiosity. It’s the key to unleashing our potential.
 
-Would love to hear your comments either here or <a href="https://twitter.com/theroyaltbomb" target="_blank" rel="noopener noreferrer">@TheRoyalTbomb</a>.
+Would love to hear your comments either here or <a href="https://twitter.com/miketnnnbm" target="_blank" rel="noopener noreferrer">@miketnnnbm</a>.

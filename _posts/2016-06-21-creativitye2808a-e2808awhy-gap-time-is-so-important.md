@@ -41,6 +41,6 @@ tags:
 </ul>
 <p id="5d96" class="graf--p graf-after--li">And there you have it! Insights to help you spend your time in efficient, enjoyable, idea-generating ways. You’re now empowered to take care of your brain! Remember — <a class="markup--anchor markup--p-anchor" href="https://www.linkedin.com/pulse/our-technology-always-brains-cant-keep-up-mike-tannenbaum" rel="nofollow" data-href="https://www.linkedin.com/pulse/our-technology-always-brains-cant-keep-up-mike-tannenbaum">you are not your machines</a>, and you must make sure to disconnect and recharge in order to continually produce quality work.</p>
 <p id="ed84" class="graf--p graf-after--p graf--last">With this new awareness, I’m excited to see how you bake some gap time into your days!</p>
-<p class="graf--p graf-after--p graf--last">I’d love to hear from you on your struggles and triumphs, questions, and comments. It’s easiest to find me on Twitter <a class="markup--anchor markup--p-anchor" title="Twitter profile for @TheRoyalTbomb" href="http://twitter.com/TheRoyalTbomb" rel="nofollow" data-href="http://twitter.com/TheRoyalTbomb">@TheRoyalTbomb</a>!</p>
+<p class="graf--p graf-after--p graf--last">I’d love to hear from you on your struggles and triumphs, questions, and comments. It’s easiest to find me on Twitter <a class="markup--anchor markup--p-anchor" title="Twitter profile for @miketnnnbm" href="http://twitter.com/miketnnnbm" rel="nofollow" data-href="http://twitter.com/miketnnnbm">@miketnnnbm</a>!</p>
 
 </div>
