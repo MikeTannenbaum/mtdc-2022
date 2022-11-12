@@ -5,6 +5,7 @@ layout: page
 excerpt:
 comments: false
 ---
-### Updated: November 7, 2022
-- Being present with my growing family
-- Searching for my next opportunity to make magic happen between people and technology in service of climate action
+### Updated: November 12, 2022
+- [Searching for my next opportunity](/healing-the-planet-faster/) to make magic happen between people and technology in service of climate action
+- Being present with my family
+- Contributing to [Philadelphia's growing circular economy](https://circularphiladelphia.org/){:target="_blank"}

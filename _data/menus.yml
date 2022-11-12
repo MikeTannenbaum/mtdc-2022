@@ -14,13 +14,13 @@
   url: https://mikeyt.xyz
   external: true
 
-- title: work
-  url: https://mikeyt.xyz
-  external: false
-  
 - title: mind
   url: https://refinedmind.co
   external: true # set true if you using external link, see below
+
+- title: contact
+  url: /contact/
+  external: false
 
 - title: now
   url: /now/
