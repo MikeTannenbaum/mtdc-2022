@@ -1,5 +1,5 @@
 ---
-title:  "A new and exciting adventure"
+title:  "Now leading Optimizastion and Sustainability Solutions"
 ---
 
 It's taken me 36+ years to fully recognize and embrace the fact that my passion for sustainability and the environment aligns perfectly with my career aspirations and experiences.
