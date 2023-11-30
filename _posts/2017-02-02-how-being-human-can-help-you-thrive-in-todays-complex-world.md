@@ -9,17 +9,15 @@ guid: http://www.miketannenbaum.com/?p=342
 permalink: /how-being-human-can-help-you-thrive-in-todays-complex-world
 categories:
   - Making Work Human
-  - 'Productivity &amp; Work'
+  - Productivity &amp; Work
 tags:
-  - gratitude
-  - Humanity
-  - mental health
-  - mindful working
-  - mindfulness
-  - people
-  - presence
-  - psychology
-  - society
+  - on/gratitude
+  - on/mindfulness
+  - on/psychology
+  - on/society
+  - on/mental-wellness
+  - on/future-of-work
+  - on/work
 ---
 <section class="section section--body section--first">
 <div class="section-content">

@@ -16,16 +16,12 @@ categories:
   - Creative Pursuits
   - Mindset
   - Personal Growth
-  - 'Productivity &amp; Work'
+  - Productivity &amp; Work
 tags:
-  - change
-  - creativity
-  - design
-  - design thinking
-  - Humanity
-  - mental models
-  - mindset
-  - thinking
+  - on/change
+  - on/creativity
+  - on/design
+  - on/mindfulness
 ---
 Someone asked me the other day if we can “do a design thinking workshop?”.
 

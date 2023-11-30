@@ -3,7 +3,7 @@ id: 79
 title: How Do You Spend Your Days?
 date: 2013-06-27T17:33:51-04:00
 author: Mike Tannenbaum
-excerpt: "I’m sick of people asking the mundane, “so what do you do?” immediately upon meeting someone new. Here's how a 92 year-old man I barely knew shifted my perspective and gave me a great conversation starter."
+excerpt: I’m sick of people asking the mundane, “so what do you do?” immediately upon meeting someone new. Here's how a 92 year-old man I barely knew shifted my perspective and gave me a great conversation starter.
 layout: post
 guid: http://s288772430.onlinehome.us/?p=79
 permalink: /how-do-you-spend-your-days
@@ -14,8 +14,8 @@ categories:
   - Personal Growth
   - Society and Culture
 tags:
-  - family
-  - life lessons
+  - on/family
+  - on/life
 ---
 Asked by a 92-year-old man, this question had so much oomph behind it I barely knew how to respond.
 

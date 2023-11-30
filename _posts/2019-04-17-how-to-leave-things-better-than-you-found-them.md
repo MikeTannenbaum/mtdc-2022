@@ -14,9 +14,9 @@ categories:
   - Leadership
   - Personal Growth
 tags:
-  - change
-  - exploration
-  - leadership
+  - on/change
+  - on/exploration
+  - on/leadership
 ---
 <!-- wp:paragraph -->
 <p>Lately, I’ve had a wonderful string of people continually asking me how to create change at work.</p>

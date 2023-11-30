@@ -13,11 +13,11 @@ categories:
   - Society and Culture
   - Technology
 tags:
-  - future of work
-  - livelihood
-  - mindful working
-  - productivity
-  - technology
+  - on/livelihood
+  - on/productivity
+  - on/technology
+  - on/future-of-work
+  - on/mindfulness
 ---
 <div class="section-inner layoutSingleColumn">
 <p id="9d56" class="graf--p graf-after--figure graf--last"><em class="markup--em markup--p-em">This is the second piece in an essay series on bringing humanity back to life and positively transforming the way we live, work, and operate in our always-connected 21st-century environment. You can explore the </em><a class="markup--anchor markup--p-anchor" href="https://medium.com/enjoy-humanity" data-href="https://medium.com/enjoy-humanity"><em class="markup--em markup--p-em">rest of the series here</em></a><em class="markup--em markup--p-em">!</em></p>

@@ -8,14 +8,14 @@ layout: post
 guid: http://www.miketannenbaum.com/?p=329
 permalink: /living-with-uncertainty
 twitter_card:
-  - 'a:2:{s:5:"title";s:23:"Living with uncertainty";s:11:"description";s:124:"Fear and uncertainty are necessary forces in life that we cannot escape, so we might as well learn to live with them. Right?";}'
+  - a:2:{s:5:"title";s:23:"Living with uncertainty";s:11:"description";s:124:"Fear and uncertainty are necessary forces in life that we cannot escape, so we might as well learn to live with them. Right?";}
 categories:
   - Personal Growth
 tags:
-  - life lessons
-  - mental health
-  - mindfulness
-  - psychology
+  - on/life
+  - on/mindfulness
+  - on/psychology
+  - on/mental-wellness
 ---
 I’m here to build something real.
 

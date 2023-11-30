@@ -12,8 +12,8 @@ categories:
   - Mindfulness
   - Technology
 tags:
-  - mindfulness
-  - technology
+  - on/mindfulness
+  - on/technology
 ---
 What does that mean? Mindfulness is nothing new. The digital age has been upon us for decades. Why blend the two statements?
 

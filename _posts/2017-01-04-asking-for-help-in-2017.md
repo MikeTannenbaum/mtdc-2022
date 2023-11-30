@@ -12,11 +12,10 @@ categories:
   - Making Work Human
   - Personal Growth
 tags:
-  - entrepreneurship
-  - exploration
-  - Humanity
-  - leadership
-  - livelihood
+  - on/exploration
+  - on/leadership
+  - on/livelihood
+  - on/entrepreneurship
 ---
 I set intentions every year, but never share them with the public, because typically they’re for me and no one else. But this year, I’m changing that.
 

@@ -14,9 +14,8 @@ categories:
   - Intentional Living
   - Personal Growth
 tags:
-  - change
-  - life journey
-  - life lessons
+  - on/change
+  - on/life
 ---
 <!-- wp:heading {"level":4} -->
 <h4 id="b6df"><em>It can be painful, harsh, and exhausting. But if we do it with an open mind, free ourselves of judgment, and approach the journey with a certain kind of mindset, the outcome can forever change our&nbsp;lives.</em></h4>

@@ -11,10 +11,10 @@ categories:
   - Personal Growth
   - Quick Reflections
 tags:
-  - gratitude
-  - life lessons
-  - mindfulness
-  - positivity
+  - on/gratitude
+  - on/life
+  - on/mindfulness
+  - on/positivity
 ---
 Hello beautiful people!
 

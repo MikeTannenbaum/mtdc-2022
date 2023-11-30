@@ -3,12 +3,12 @@ id: 2796
 title: My new career adventure addressing systems change and our climate crisis
 date: 2021-08-16T20:07:45-04:00
 author: Mike Tannenbaum
-excerpt: "I’m wildly proud to share that I’ve joined forces with a team and organization actively accelerating our transition to a circular economy, and I've never been more excited in my career!"
+excerpt: I’m wildly proud to share that I’ve joined forces with a team and organization actively accelerating our transition to a circular economy, and I've never been more excited in my career!
 layout: post
 guid: https://miketannenbaum.com/?p=2796
 permalink: /my-new-career-adventure-addressing-systems-change-and-our-climate-crisis
 categories:
-  - 'Attention, Focus, &amp; Effort'
+  - Attention, Focus, &amp; Effort
   - Creating Change
   - Creative Pursuits
   - Intentional Living
@@ -19,10 +19,13 @@ categories:
   - Mindfulness
   - Mindset
   - Personal Growth
-  - 'Productivity &amp; Work'
+  - Productivity &amp; Work
   - Quick Reflections
   - Society and Culture
   - Technology
+tags:
+  - on/life-journey
+  - on/strategic-independent
 ---
 <!-- wp:paragraph -->
 <p>I’m wildly proud to share that I’ve joined forces with a team and organization actively accelerating our transition to a circular economy, and I've never been more excited in my career!</p>

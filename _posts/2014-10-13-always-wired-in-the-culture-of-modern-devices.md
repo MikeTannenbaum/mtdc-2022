@@ -13,8 +13,8 @@ categories:
   - Society and Culture
   - Technology
 tags:
-  - society
-  - technology
+  - on/society
+  - on/technology
 ---
 Something’s happening in our world that’s seemingly flying under the radar but increasingly problematic by observing people interact with their digital worlds. Take the new iPhone 6 announcement as an example. Everyone’s so caught up in the release of this new device that everywhere we turn we see news, reporting, conversations, arguments and discussion focused on the product, it’s impact on someone’s life, and how their life will be so much “better” when they get their new device. They order it ahead of time to be delivered to the door and they wait in line for days, [defecating](http://9to5mac.com/2014/09/20/iphone-6-lines-video-chinese-mafia/) in plastic bags and trashing the sidewalks in refusal of giving up their spot in line. They’re so dedicated to getting their new device they’ll go out of their way, inconvenience others, and take time off work to procure this new device.
 

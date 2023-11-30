@@ -8,12 +8,14 @@ layout: post
 guid: https://miketannenbaum.com/?p=1851
 permalink: /on-habits-and-hating-books-about-habits-james-clear-atomic-habits
 categories:
-  - 'Attention, Focus, &amp; Effort'
+  - Attention, Focus, &amp; Effort
   - Creating Change
   - Mindset
   - Personal Growth
 tags:
-  - habits
+  - on/mental-models
+  - on/change
+  - on/personal-growth
 ---
 <!-- wp:paragraph -->
 <p>There are some things in life that I’ve always avoided because I’m scared of them.</p>

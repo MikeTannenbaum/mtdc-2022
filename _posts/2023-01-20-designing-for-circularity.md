@@ -1,5 +1,9 @@
 ---
-title: "Designing for circularity"
+title: Designing for circularity
+tags:
+  - on/circularity
+  - on/sustainability
+  - on/design
 ---
 Businesses collectively spend BILLIONS OF DOLLARS to optimize the design, production, and distribution of the goods they produce, yet it seems as though there's zero thought given to the deconstruction of those products and reallocation of their components at their end of life. Instead, the burden is on us, the consumers, to figure out wtf to do with these products that once served us but now no longer meet our needs.
 

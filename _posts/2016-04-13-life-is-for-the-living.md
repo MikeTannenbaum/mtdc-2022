@@ -11,11 +11,11 @@ categories:
   - Intentional Living
   - Personal Growth
 tags:
-  - exploration
-  - family
-  - life journey
-  - life lessons
-  - livelihood
+  - on/exploration
+  - on/family
+  - on/life
+  - on/life
+  - on/livelihood
 ---
 [caption id="" align="aligncenter" width="800"]<img class="progressiveMedia-image js-progressiveMedia-image" src="https://cdn-images-1.medium.com/max/800/1*l1CddmaNeNNG0qWkAGOYPw.jpeg" alt="My wife and I on our first remote working trip to Playa del Carmen ??" width="800" height="600" data-src="https://cdn-images-1.medium.com/max/800/1*l1CddmaNeNNG0qWkAGOYPw.jpeg" /> My wife and I on our first remote working trip to Playa del Carmen ??[/caption]
 

@@ -12,9 +12,8 @@ categories:
   - Mindset
   - Quick Reflections
 tags:
-  - life lessons
-  - mindfulness
-  - psychology
+  - on/life
+  - on/life-journey
 ---
 <div>
 

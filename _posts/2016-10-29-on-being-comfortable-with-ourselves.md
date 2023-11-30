@@ -10,10 +10,10 @@ permalink: /on-being-comfortable-with-ourselves
 categories:
   - Personal Growth
 tags:
-  - life journey
-  - life lessons
-  - mindfulness
-  - psychology
+  - on/mindfulness
+  - on/psychology
+  - on/life-journey
+  - on/life
 ---
 It’s easy to think we’re more awesome than we actually are.
 

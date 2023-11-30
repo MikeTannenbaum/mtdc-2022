@@ -8,18 +8,18 @@ layout: post
 guid: http://s288772430.onlinehome.us/?p=110
 permalink: /are-you-creating-forward-motion-or-stop-energy
 categories:
-  - 'Attention, Focus, &amp; Effort'
+  - Attention, Focus, &amp; Effort
   - Creating Change
   - Creative Pursuits
   - Meaningful Work
   - Mindset
   - Personal Growth
-  - 'Productivity &amp; Work'
+  - Productivity &amp; Work
 tags:
-  - creativity
-  - livelihood
-  - mindful working
-  - mindfulness
+  - on/creativity
+  - on/livelihood
+  - on/mindfulness
+  - on/work
 ---
 Hi friends!
 

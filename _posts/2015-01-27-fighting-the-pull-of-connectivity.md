@@ -12,9 +12,9 @@ categories:
   - Mindfulness
   - Technology
 tags:
-  - mindfulness
-  - psychology
-  - technology
+  - on/mindfulness
+  - on/psychology
+  - on/technology
 ---
 <em>This feeling. Must connect. Must check in. Must see what’s happening. Can’t resist. Need to know. It bites, it stings, it drives you. Constant desire to seek what’s new. Notifications, conversations, plot lines, anything we can get our hands on. We’re addicts and most of us don’t even know it. Always seeking our next fix, we just want it now. Tell me. Give it to me. Can’t fight the urge.</em>
 

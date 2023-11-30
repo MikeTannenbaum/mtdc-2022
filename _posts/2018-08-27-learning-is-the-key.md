@@ -8,29 +8,25 @@ layout: post
 guid: http://www.miketannenbaum.com/?p=559
 permalink: /learning-is-the-key
 twitter_share:
-  - 'a:1:{s:4:"text";s:129:"Solve any problem, at any time, with this one skill. As a person, a team, or an organization, here’s what it takes to flourish.";}'
+  - a:1:{s:4:"text";s:129:"Solve any problem, at any time, with this one skill. As a person, a team, or an organization, here’s what it takes to flourish.";}
 twitter_card:
-  - 'a:2:{s:5:"title";s:53:"It’s worth mastering this one essential life skill";s:11:"description";s:129:"Solve any problem, at any time, with this one skill. As a person, a team, or an organization, here’s what it takes to flourish.";}'
+  - a:2:{s:5:"title";s:53:"It’s worth mastering this one essential life skill";s:11:"description";s:129:"Solve any problem, at any time, with this one skill. As a person, a team, or an organization, here’s what it takes to flourish.";}
 categories:
   - Creating Change
   - Leadership
   - Making Work Human
   - Mindset
   - Personal Growth
-  - 'Productivity &amp; Work'
+  - Productivity &amp; Work
 tags:
-  - change
-  - creativity
-  - design
-  - entrepreneurship
-  - exploration
-  - future of work
-  - Humanity
-  - leadership
-  - life lessons
-  - management
-  - mindful working
-  - productivity
+  - on/change
+  - on/creativity
+  - on/entrepreneurship
+  - on/exploration
+  - on/leadership
+  - on/productivity
+  - on/work
+  - on/future-of-work
 ---
 <section class="section section--body section--first">
 <div class="section-content">

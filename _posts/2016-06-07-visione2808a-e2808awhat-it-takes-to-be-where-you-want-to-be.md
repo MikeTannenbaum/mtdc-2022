@@ -6,9 +6,9 @@ author: Mike Tannenbaum
 excerpt: By bringing new perspectives, mindsets, and practices into our daily routines, we unlock our incredible potential and empower ourselves to approach life in new ways so we can create the changes we want to see in our world.
 layout: post
 guid: http://www.miketannenbaum.com/?p=164
-permalink: '/vision%e2%80%8a-%e2%80%8awhat-it-takes-to-be-where-you-want-to-be'
+permalink: /vision%e2%80%8a-%e2%80%8awhat-it-takes-to-be-where-you-want-to-be
 categories:
-  - 'Attention, Focus, &amp; Effort'
+  - Attention, Focus, &amp; Effort
   - Creating Change
   - Creative Pursuits
   - Leadership
@@ -16,9 +16,10 @@ categories:
   - Meaningful Work
   - Mindset
 tags:
-  - livelihood
-  - mindful working
-  - psychology
+  - on/livelihood
+  - on/psychology
+  - on/mindfulness
+  - on/work
 ---
 <p id="3293" class="graf--p graf-after--h3"><em></em><em class="markup--em markup--p-em">This is the third piece in an essay series on bringing humanity back to life and positively transforming the way we live, work, and operate in our always-connected 21st-century environment. You can explore the </em><a class="markup--anchor markup--p-anchor" href="https://medium.com/enjoy-humanity" data-href="https://medium.com/enjoy-humanity"><em class="markup--em markup--p-em">rest of the series here</em></a><em class="markup--em markup--p-em">!</em></p>
 <strong>Clarity — Realizing your potential</strong>

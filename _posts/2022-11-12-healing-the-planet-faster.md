@@ -1,5 +1,8 @@
 ---
-title:  "Let's heal the planet faster"
+title: Let's heal the planet faster
+tags:
+  - on/career
+  - on/life-journey
 ---
 # aka Seeking professional climate action
 

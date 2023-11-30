@@ -8,20 +8,20 @@ layout: post
 guid: http://www.miketannenbaum.com/?p=392
 permalink: /working-without-distraction
 twitter_card:
-  - 'a:1:{s:11:"description";s:99:"It’s time to be thoughtful about how we work, both by ourselves and in collaboration with others.";}'
+  - a:1:{s:11:"description";s:99:"It’s time to be thoughtful about how we work, both by ourselves and in collaboration with others.";}
 categories:
-  - 'Attention, Focus, &amp; Effort'
+  - Attention, Focus, &amp; Effort
   - Leadership
   - Meaningful Work
-  - 'Productivity &amp; Work'
+  - Productivity &amp; Work
   - Technology
 tags:
-  - future of work
-  - leadership
-  - management
-  - mindful working
-  - productivity
-  - technology
+  - on/leadership
+  - on/productivity
+  - on/technology
+  - on/future-of-work
+  - on/mindfulness
+  - on/work
 ---
 The dog woke me up unusually early to go out and handle his business.
 

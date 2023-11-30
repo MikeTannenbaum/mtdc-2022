@@ -12,11 +12,11 @@ dsq_thread_id:
 categories:
   - Creating Change
   - Making Work Human
-  - 'Productivity &amp; Work'
+  - Productivity &amp; Work
 tags:
-  - future of work
-  - mindful working
-  - technology
+  - on/technology
+  - on/future-of-work
+  - on/work
 ---
 <p id="f046" class="graf--p graf-after--figure">There’s a lot of talk these days about reinventing organizations. The world has become fully digital, which has caused the total disruption of business as usual. For the vast majority of working Americans, the people in positions of leadership aren’t clear on what changes to make that can propel them ahead of this disruption, yet they know they need to adjust their course and bring in modern thought leaders to help co-create their futures.</p>
 

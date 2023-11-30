@@ -8,13 +8,12 @@ layout: post
 guid: http://www.miketannenbaum.com/?p=580
 permalink: /digital-cleansing-and-making-space-for-creativity
 categories:
-  - 'Attention, Focus, &amp; Effort'
+  - Attention, Focus, &amp; Effort
   - Mindset
   - Technology
 tags:
-  - creativity
-  - technology
-  - thinking
+  - on/creativity
+  - on/technology
 ---
 Lately I’ve had a burning desire to reduce everything down to its simplest form so I have space to make and create, but things have been getting in my way.
 

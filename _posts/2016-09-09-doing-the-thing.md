@@ -11,11 +11,12 @@ categories:
   - Creative Pursuits
   - Personal Growth
 tags:
-  - creativity
-  - life journey
-  - livelihood
-  - mindful working
-  - productivity
+  - on/creativity
+  - on/life
+  - on/livelihood
+  - on/productivity
+  - on/mindfulness
+  - on/work
 ---
 <h4>Do good work, with good people, and the rest will take care of itself.</h4>
 It's easy to get caught up in all the bullshit that surrounds us. Sorry to say it so bluntly, but it's true. Whether personal projects or professional endeavors, there's a lot of noise coming from all angles, making it difficult to focus on what really matters.

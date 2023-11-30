@@ -8,18 +8,15 @@ layout: post
 guid: http://www.miketannenbaum.com/?p=407
 permalink: /on-instagram-depression-and-anxiety
 twitter_card:
-  - 'a:1:{s:11:"description";s:60:"Instagram, depression, and anxiety. A 21st-century cocktail.";}'
+  - a:1:{s:11:"description";s:60:"Instagram, depression, and anxiety. A 21st-century cocktail.";}
 categories:
   - Mental Health and Wellness
   - Mindset
   - Personal Growth
 tags:
-  - life journey
-  - life lessons
-  - mental health
-  - mindset
-  - thinking
-  - wellbeing
+  - on/life
+  - on/mindfulness
+  - on/mental-wellness
 ---
 Regardless of what <a href="https://instagram.com/miketannenbaum">my Instagram feed</a> looks like, I want to write about the fact that my life is not all infinity pools and explorations through Asian cities and exotic markets.
 

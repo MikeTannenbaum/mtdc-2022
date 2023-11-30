@@ -13,9 +13,9 @@ categories:
   - Society and Culture
   - Technology
 tags:
-  - livelihood
-  - psychology
-  - technology
+  - on/livelihood
+  - on/psychology
+  - on/technology
 ---
 <blockquote>Bombardment of information; never ending messaging with friends; constant onslaught of attention-stealing notifications.</blockquote>
 

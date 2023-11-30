@@ -10,11 +10,12 @@ permalink: /an-introduction-to-my-essay-series-on-mindful-working
 categories:
   - Making Work Human
   - Meaningful Work
-  - 'Productivity &amp; Work'
+  - Productivity &amp; Work
 tags:
-  - future of work
-  - livelihood
-  - mindful working
+  - on/livelihood
+  - on/future-of-work
+  - on/mindfulness
+  - on/work
 ---
 <div class="section-inner layoutSingleColumn">
 <p id="251d" class="graf--p graf-after--h3"><em class="markup--em markup--p-em">This is the first piece in an essay series on bringing humanity back to life and positively transforming the way we live, work, and operate in our always-connected 21st-century environment. A new essay will be published weekly! You can view the </em><a class="markup--anchor markup--p-anchor" href="https://medium.com/enjoy-humanity" data-href="https://medium.com/enjoy-humanity"><em class="markup--em markup--p-em">whole series here</em></a><em class="markup--em markup--p-em">.</em></p>

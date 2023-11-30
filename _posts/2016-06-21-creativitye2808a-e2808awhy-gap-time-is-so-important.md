@@ -6,17 +6,18 @@ author: Mike Tannenbaum
 excerpt: In this always-connected environment we live in, it’s more important than ever for us to set intentions and make sure we’re making space for our brains to disconnect, unwind, wander, and connect dots.
 layout: post
 guid: http://www.miketannenbaum.com/?p=180
-permalink: '/creativity%e2%80%8a-%e2%80%8awhy-gap-time-is-so-important'
+permalink: /creativity%e2%80%8a-%e2%80%8awhy-gap-time-is-so-important
 categories:
   - Creative Pursuits
   - Making Work Human
-  - 'Productivity &amp; Work'
+  - Productivity &amp; Work
 tags:
-  - creativity
-  - mindful working
-  - productivity
-  - psychology
-  - technology
+  - on/creativity
+  - on/productivity
+  - on/psychology
+  - on/technology
+  - on/mindfulness
+  - on/work
 ---
 <div class="section-inner layoutSingleColumn">
 <p id="667c" class="graf--p graf-after--h3"><em class="markup--em markup--p-em">This is the fifth piece in an essay series on bringing humanity back to life and positively transforming the way we live, work, and operate in our always-connected 21st-century environment. You can explore the </em><a class="markup--anchor markup--p-anchor" href="https://medium.com/enjoy-humanity" data-href="https://medium.com/enjoy-humanity"><em class="markup--em markup--p-em">rest of the series here</em></a><em class="markup--em markup--p-em">!</em></p>

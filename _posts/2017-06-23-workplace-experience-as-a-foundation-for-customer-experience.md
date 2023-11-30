@@ -3,7 +3,7 @@ id: 359
 title: Workplace experience as a foundation for customer experience
 date: 2017-06-23T14:22:02-04:00
 author: Mike Tannenbaum
-excerpt: "The experience that a customer has with an organization's products, services, and people, will be an embodiment of the organization's workplace experience, and will reflect back the principles, values, and beliefs of that specific organization. (I think.)"
+excerpt: The experience that a customer has with an organization's products, services, and people, will be an embodiment of the organization's workplace experience, and will reflect back the principles, values, and beliefs of that specific organization. (I think.)
 layout: post
 guid: http://www.miketannenbaum.com/?p=359
 permalink: /workplace-experience-as-a-foundation-for-customer-experience
@@ -11,10 +11,9 @@ categories:
   - Leadership
   - Making Work Human
 tags:
-  - experience design
-  - leadership
-  - management
-  - org design
+  - on/leadership
+  - on/org-culture
+  - on/design
 ---
 <em>Disclaimer: this is a theory I'm currently exploring and working through, and is by no means a concrete thought written in stone. I wrote this in response to some <a href="https://twitter.com/miketnnnbm/status/877584040018141184">dialogue on twitter</a>.</em>
 

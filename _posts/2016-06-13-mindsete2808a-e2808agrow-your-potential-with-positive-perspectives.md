@@ -6,19 +6,19 @@ author: Mike Tannenbaum
 excerpt: This piece will explore how our mindsets can be key to creating our best work, and offer up a practice you can explore that may help shift your thinking and get out of those ruts.
 layout: post
 guid: http://www.miketannenbaum.com/?p=166
-permalink: '/mindset%e2%80%8a-%e2%80%8agrow-your-potential-with-positive-perspectives'
+permalink: /mindset%e2%80%8a-%e2%80%8agrow-your-potential-with-positive-perspectives
 categories:
   - Making Work Human
   - Mindfulness
   - Mindset
-  - 'Productivity &amp; Work'
+  - Productivity &amp; Work
 tags:
-  - livelihood
-  - mindful working
-  - mindfulness
-  - positivity
-  - productivity
-  - psychology
+  - on/livelihood
+  - on/mindfulness
+  - on/positivity
+  - on/productivity
+  - on/psychology
+  - on/work
 ---
 <div class="section-inner layoutSingleColumn">
 <p id="7b0d" class="graf--p graf-after--h3"><em class="markup--em markup--p-em">This is the fourth piece in an essay series on bringing humanity back to life and positively transforming the way we live, work, and operate in our always-connected 21st-century environment. You can explore the </em><a class="markup--anchor markup--p-anchor" href="https://medium.com/enjoy-humanity" data-href="https://medium.com/enjoy-humanity"><em class="markup--em markup--p-em">rest of the series here</em></a><em class="markup--em markup--p-em">!</em></p>

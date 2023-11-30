@@ -8,14 +8,14 @@ layout: post
 guid: http://www.miketannenbaum.com/?p=222
 permalink: /making-space-amid-chaos
 categories:
-  - 'Attention, Focus, &amp; Effort'
+  - Attention, Focus, &amp; Effort
   - Mindfulness
   - Personal Growth
-  - 'Productivity &amp; Work'
+  - Productivity &amp; Work
 tags:
-  - life lessons
-  - mental health
-  - mindfulness
+  - on/life
+  - on/mindfulness
+  - on/mental-wellness
 ---
 Sometimes you just need to let yourself be. To let yourself exist.
 

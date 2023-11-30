@@ -12,9 +12,8 @@ categories:
   - Mindset
   - Personal Growth
 tags:
-  - life lessons
-  - people
-  - psychology
+  - on/life
+  - on/psychology
 ---
 Sometimes it can be hard to notice what’s right in front of us. To see things as they really are, and not as our biased brain wants us to perceive them.
 

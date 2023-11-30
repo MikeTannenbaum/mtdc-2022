@@ -12,12 +12,12 @@ categories:
   - Leadership
   - Making Work Human
   - Mindset
-  - 'Productivity &amp; Work'
+  - Productivity &amp; Work
 tags:
-  - future of work
-  - leadership
-  - livelihood
-  - mindful working
+  - on/leadership
+  - on/livelihood
+  - on/future-of-work
+  - on/work
 ---
 Leadership is inspiring and coaching others to be their best selves.
 

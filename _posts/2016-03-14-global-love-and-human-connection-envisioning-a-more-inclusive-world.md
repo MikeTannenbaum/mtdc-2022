@@ -13,11 +13,8 @@ categories:
   - Personal Growth
   - Technology
 tags:
-  - love
-  - mindfulness
-  - people
-  - positivity
-  - technology
+  - on/mindfulness
+  - on/technology
 ---
 <h2><em>Our world is so beautiful! Yet humanity these days … not so much.</em></h2>
 America’s forefathers brought this country into fruition by leading the charge, standing up for their beliefs, and working together to free themselves from British rule and create a better, more independent world.

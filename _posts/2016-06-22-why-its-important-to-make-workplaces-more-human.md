@@ -11,10 +11,10 @@ categories:
   - Leadership
   - Making Work Human
 tags:
-  - future of work
-  - leadership
-  - livelihood
-  - positivity
+  - on/leadership
+  - on/livelihood
+  - on/positivity
+  - on/future-of-work
 ---
 <div class="section-inner layoutSingleColumn">
 <p id="31d5" class="graf--p graf-after--figure">Human beings are at the center of everything. We’re the ones calling the shots, making the decisions, and creating changes that ripple throughout our world.</p>

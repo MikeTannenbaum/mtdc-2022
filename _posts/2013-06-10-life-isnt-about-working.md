@@ -13,9 +13,8 @@ categories:
   - Mindset
   - Society and Culture
 tags:
-  - exploration
-  - life lessons
-  - livelihood
+  - on/life
+  - on/livelihood
 ---
 For the longest time we lived in a world where there was a norm. A status quo. Get these grades, go to these schools, get these jobs and everything will work out. By following a predetermined path, our society made promises to its citizens that if you do what’s expected, you will be rewarded with a life of comfort. The path of least resistance.
 

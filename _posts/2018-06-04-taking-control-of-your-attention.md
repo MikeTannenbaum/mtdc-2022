@@ -1,6 +1,6 @@
 ---
 id: 414
-title: 'Living in a Digital Age: Your attention is leaking'
+title: "Living in a Digital Age: Your attention is leaking"
 date: 2018-06-04T11:00:02-04:00
 author: Mike Tannenbaum
 excerpt: Your attention is your most valuable resource, and everyone is vying for it. How will you resist temptation?
@@ -8,7 +8,7 @@ layout: post
 guid: http://www.miketannenbaum.com/?p=414
 permalink: /taking-control-of-your-attention
 twitter_share:
-  - 'a:1:{s:4:"text";s:25:"Your attention is leaking";}'
+  - a:1:{s:4:"text";s:25:"Your attention is leaking";}
 twitter_card:
   - 'a:2:{s:5:"title";s:50:"Living in a Digital Age: Your attention is leaking";s:11:"description";s:108:"Your attention is your most valuable resource, and everyone is vying for it. How will you resist temptation?";}'
 categories:
@@ -16,14 +16,11 @@ categories:
   - Personal Growth
   - Technology
 tags:
-  - creativity
-  - design thinking
-  - livelihood
-  - mental health
-  - mindful working
-  - mindset
-  - productivity
-  - technology
+  - on/creativity
+  - on/livelihood
+  - on/productivity
+  - on/technology
+  - on/mental-wellness
 ---
 To be mindful is to be aware, honest, and present with yourself. Most importantly, it’s about doing so without judgment. This is no easy task!
 

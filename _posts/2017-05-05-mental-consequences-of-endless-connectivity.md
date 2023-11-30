@@ -8,14 +8,14 @@ layout: post
 guid: http://www.miketannenbaum.com/?p=337
 permalink: /mental-consequences-of-endless-connectivity
 twitter_card:
-  - 'a:1:{s:11:"description";s:32:"Sometimes, I just want to be me.";}'
+  - a:1:{s:11:"description";s:32:"Sometimes, I just want to be me.";}
 categories:
   - Quick Reflections
 tags:
-  - mental health
-  - mindfulness
-  - psychology
-  - technology
+  - on/mindfulness
+  - on/psychology
+  - on/technology
+  - on/mental-wellness
 ---
 The internet makes me feel as though I cannot disappear. Like I must always be on, standing at the ready, in tune and connected with the world.
 

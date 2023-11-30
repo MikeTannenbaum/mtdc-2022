@@ -8,19 +8,18 @@ layout: post
 guid: http://www.miketannenbaum.com/?p=555
 permalink: /the-human-workplace
 twitter_share:
-  - 'a:1:{s:4:"text";s:183:"The organizations leading the way are the ones that are embracing the messiness of life and work, and learning to use our humanity as a strength, instead of a weakness. Here’s how.";}'
+  - a:1:{s:4:"text";s:183:"The organizations leading the way are the ones that are embracing the messiness of life and work, and learning to use our humanity as a strength, instead of a weakness. Here’s how.";}
 twitter_card:
-  - 'a:2:{s:5:"title";s:19:"The Human Workplace";s:11:"description";s:183:"The organizations leading the way are the ones that are embracing the messiness of life and work, and learning to use our humanity as a strength, instead of a weakness. Here’s how.";}'
+  - a:2:{s:5:"title";s:19:"The Human Workplace";s:11:"description";s:183:"The organizations leading the way are the ones that are embracing the messiness of life and work, and learning to use our humanity as a strength, instead of a weakness. Here’s how.";}
 categories:
   - Making Work Human
   - Meaningful Work
 tags:
-  - future of work
-  - Humanity
-  - livelihood
-  - mindful working
-  - org design
-  - productivity
+  - on/livelihood
+  - on/productivity
+  - on/future-of-work
+  - on/org-culture
+  - on/org-change
 ---
 <div class="section-inner sectionLayout--insetColumn">
 <h3 id="4746" class="graf graf--h4 graf-after--h3 graf--subtitle">The organizations leading the way are the ones that are embracing the messiness of life and work, and learning to use our humanity as a strength, instead of a weakness. Here’s&nbsp;how.</h3>

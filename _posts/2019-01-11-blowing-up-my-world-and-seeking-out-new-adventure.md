@@ -13,12 +13,13 @@ categories:
   - Mindset
   - Personal Growth
 tags:
-  - change
-  - entrepreneurship
-  - exploration
-  - independent work
-  - livelihood
-  - mental health
+  - on/change
+  - on/entrepreneurship
+  - on/exploration
+  - on/livelihood
+  - on/strategic-independent
+  - on/mental-wellness
+  - on/life-journey
 ---
 <div id="entry-07CDC6134EC9471BA1A179B07937597F" class="entry" dir="auto">
 

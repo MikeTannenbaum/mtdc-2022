@@ -8,19 +8,17 @@ layout: post
 guid: http://www.miketannenbaum.com/?p=605
 permalink: /the-future-of-work-is-independent
 twitter_share:
-  - 'a:1:{s:4:"text";s:33:"The Future of Work is Independent";}'
+  - a:1:{s:4:"text";s:33:"The Future of Work is Independent";}
 twitter_card:
-  - 'a:1:{s:5:"title";s:33:"The Future of Work is Independent";}'
+  - a:1:{s:5:"title";s:33:"The Future of Work is Independent";}
 categories:
   - Meaningful Work
-  - 'Productivity &amp; Work'
+  - Productivity &amp; Work
 tags:
-  - entrepreneurship
-  - future of work
-  - independent work
-  - livelihood
-  - morning pages
-  - thinking
+  - on/entrepreneurship
+  - on/livelihood
+  - on/future-of-work
+  - on/strategic-independent
 ---
 There is so much talk these days about The Future of Work, but I don’t really know what is happening with all that theory, speculation, and conversation. I don’t know how it applies to the masses.
 

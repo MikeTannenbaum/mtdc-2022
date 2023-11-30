@@ -13,11 +13,13 @@ categories:
   - Making Work Human
   - Society and Culture
 tags:
-  - change
-  - future of work
-  - history
-  - Humanity
-  - org design
+  - on/change
+  - on/future-of-work
+  - on/history
+  - on/work
+  - on/teamwork
+  - on/org-change
+  - on/org-culture
 ---
 <!-- wp:paragraph -->
 <p>When the COVID-19 pandemic was in its early days, a friend who works for a state department said something alarming that immediately triggered a realization for me. They told me, “governments have been caught with their pants down and were basically on two weeks paid vacation when this started because they had no idea what to do when everyone was immediately forced to stay at home.”</p>

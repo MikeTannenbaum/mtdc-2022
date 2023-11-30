@@ -3,20 +3,20 @@ id: 89
 title: Connected Culture
 date: 2014-07-09T12:08:25-04:00
 author: Mike Tannenbaum
-excerpt: "Our connected culture has effects on people, relationships and societies that we haven't begun to fully understand yet, and it's the most awesome and most scary revolution the world has ever seen."
+excerpt: Our connected culture has effects on people, relationships and societies that we haven't begun to fully understand yet, and it's the most awesome and most scary revolution the world has ever seen.
 layout: post
 guid: http://s288772430.onlinehome.us/?p=89
 permalink: /connected-culture
 categories:
-  - 'Attention, Focus, &amp; Effort'
+  - Attention, Focus, &amp; Effort
   - Personal Growth
   - Quick Reflections
   - Society and Culture
   - Technology
 tags:
-  - life journey
-  - psychology
-  - technology
+  - on/life
+  - on/psychology
+  - on/technology
 ---
 <h4>We're a generation of people who grew up on the internet.</h4>
 Collectively, we spent our evenings in front of our computers, communicating with our friends and strangers alike, discussing gossip, classwork, and mutual interests. There was always a conversation to be a part of and always a discussion to be had. Endless entertainment, whenever we wanted it.

@@ -11,12 +11,10 @@ categories:
   - Leadership
   - Making Work Human
 tags:
-  - future of work
-  - Humanity
-  - leadership
-  - mindful working
-  - mindfulness
-  - presence
+  - on/leadership
+  - on/mindfulness
+  - on/future-of-work
+  - on/work
 ---
 <section class="section section--body section--first">
 <div class="section-content">

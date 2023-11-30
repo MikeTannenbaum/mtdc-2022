@@ -8,22 +8,20 @@ layout: post
 guid: http://www.miketannenbaum.com/?p=346
 permalink: /here-comes-the-human-era-of-work
 twitter_share:
-  - 'a:1:{s:4:"text";s:71:"It’s time to redesign life at work, and the role of work within life.";}'
+  - a:1:{s:4:"text";s:71:"It’s time to redesign life at work, and the role of work within life.";}
 twitter_card:
-  - 'a:1:{s:11:"description";s:71:"It’s time to redesign life at work, and the role of work within life.";}'
+  - a:1:{s:11:"description";s:71:"It’s time to redesign life at work, and the role of work within life.";}
 categories:
   - Leadership
   - Making Work Human
   - Quick Reflections
 tags:
-  - future of work
-  - Humanity
-  - leadership
-  - livelihood
-  - mindful working
-  - mindfulness
-  - people
-  - society
+  - on/leadership
+  - on/livelihood
+  - on/mindfulness
+  - on/society
+  - on/future-of-work
+  - on/work
 ---
 <h3>A quick reflection on the state of the workplace, and what it means for the future of work, life, and humanity.</h3>
 Life is not just about work, nor is work the sole focus of life.

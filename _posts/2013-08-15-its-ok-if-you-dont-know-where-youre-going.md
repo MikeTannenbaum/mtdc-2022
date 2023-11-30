@@ -14,9 +14,8 @@ categories:
   - Personal Growth
   - Quick Reflections
 tags:
-  - exploration
-  - life journey
-  - philadelphia
+  - on/life
+  - on/philadelphia
 ---
 <em>One man’s (extended) thoughts on why we should slow down, take life one day at a time, and become comfortable perpetually exploring our identities, passions and lifestyles. Told through a life story and personal journey, so buckle up!</em>
 

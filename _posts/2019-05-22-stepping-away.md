@@ -12,11 +12,11 @@ categories:
   - Mindset
   - Personal Growth
 tags:
-  - independent work
-  - life lessons
-  - livelihood
-  - mental health
-  - personal growth
+  - on/livelihood
+  - on/strategic-independent
+  - on/mental-wellness
+  - on/life-journey
+  - on/personal-growth
 ---
 <h5>When was the last time you stopped to really take care of yourself?</h5>
 

@@ -12,10 +12,10 @@ categories:
   - Mindfulness
   - Technology
 tags:
-  - livelihood
-  - mindfulness
-  - productivity
-  - technology
+  - on/livelihood
+  - on/mindfulness
+  - on/productivity
+  - on/technology
 ---
 In the midst of writing about distraction I got distracted and forgot my train of thought. How fucked up is that?!
 

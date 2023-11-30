@@ -11,9 +11,9 @@ categories:
   - Creative Pursuits
   - Mindset
 tags:
-  - mindful working
-  - presence
-  - productivity
+  - on/productivity
+  - on/mindfulness
+  - on/work
 ---
 <blockquote>
 <div style="text-align: center;">
