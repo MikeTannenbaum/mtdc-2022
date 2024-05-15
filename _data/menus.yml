@@ -2,6 +2,10 @@
   url: /
   external: false
 
+- title: now
+  url: /now/
+  external: false
+
 - title: principles
   url: /principles/
   external: false
@@ -14,10 +18,10 @@
   url: https://refinedmind.co
   external: true
 
+- title: linkedin
+  url: https://linkedin.com/in/tannenbaum
+  external: true
+
 - title: contact
   url: /contact/
-  external: false
-
-- title: now
-  url: /now/
   external: false
