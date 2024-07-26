@@ -1,14 +1,17 @@
 ---
-title: "INTERVIEW: The current state of plastic waste"
+title: "INTERVIEW: The Current State of Plastic Waste"
 tags:
   - on/circularity
   - on/sustainability
   - on/recycling
   - on/design
+  - on/plastic
 ---
 ## Video Interview: The Current State of Plastic Waste
 
 [This post was originally published on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7221539756449415172/){:target="_blank"}. I encourage you to share your thoughts in the comments.
+
+[![[frame.png]]](https://www.youtube.com/watch?v=Nu6HnP_IjW8){:target="_blank"} 
 
 Plastic waste is a complex mess full of competing priorities, endless tradeoffs, false solutions, regrettable substitutions, differing opinions, misinformation, disinformation, politics, agendas, and so much more. Our world has developed and our civilizations have advanced tremendously because of plastics and the benefits they've afforded, but those haven't come without their costs—and it's well past time to directly address these tradeoffs.  
   
@@ -19,3 +22,5 @@ Jess and team came to me asking if I could help explain the current state of the
 In this episode of Breaking It Down, you may not get The Answer, but you will most certainly get The Perspectives, The Challenges, The Complexities, The Nuances, The Tradeoffs, The Battles, and perhaps even The Path Forward.  
   
 My hope is that you come out of watching this with more clarity, more questions, and better understanding of the plastic waste crisis than you had before. If you watch it and think something I said is wrong, please tell me and provide data/sources. Similarly, if you take away something incredibly insightful and perhaps even useful, please tell us in the comments!
+
+[![[reconsidered-BID.png]]](https://www.youtube.com/watch?v=Nu6HnP_IjW8){:target="_blank"}
