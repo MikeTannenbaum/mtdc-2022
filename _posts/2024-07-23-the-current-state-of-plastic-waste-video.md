@@ -1,5 +1,5 @@
 ---
-title: [VIDEO] The current state of plastic waste
+title: "INTERVIEW: The current state of plastic waste"
 tags:
   - on/circularity
   - on/sustainability
