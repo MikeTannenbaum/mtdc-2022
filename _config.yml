@@ -1,17 +1,17 @@
 # Site settings
 title: Mike Tannenbaum
 description: >- # site description
-  Work together more effectively
+  Strategy & Advocacy for Circularity & Climate
 lang: en-US # default lang
 timezone: America/New_York # set your timezone
-image: assets/img/mikeyt-xyz-logo.png # This image used for Open Graph more info https://ogp.me/
+image: assets/img/mike-SA-headshot-circle.jpeg # This image used for Open Graph more info https://ogp.me/
 repo: https://github.com/piharpi/jekyll-klise # site repo [optional]
 mode: dark # default theme "dark" | "light"
 
 # Profile settings
 author:
   name: Mike Tannenbaum
-  bio: Working towards responsible, sustainable, and just systems by facilitating strategy and collaboration among sustainability leaders • Raising tiny humans
+  bio: Strategy & Advocacy for Circularity, Sustainability, & Climate » Working towards responsible, sustainable, and just systems by facilitating strategy and collaboration among sustainability leaders
   username: miketannenbaum # general username
   github: miketannenbaum # github username
   twitter: miketnnnbm # twitter username
