@@ -11,20 +11,6 @@
   margin-top: 7.8em;
   margin-bottom: 3em;
 
-  .tags {
-    margin-left: 3px;
-    letter-spacing: 0.5px;
-
-    .tag {
-      font-weight: $bold-weight;
-      font-size: $small-font-size - 2;
-
-      &:hover {
-        text-decoration: none;
-      }
-    }
-  }
-
   .header-title {
     font-size: 2em;
     line-height: 1.2;
@@ -46,24 +32,32 @@
   padding-top: 3px;
   line-height: 1.3;
   color: $gray;
+  font-size: $small-font-size;
 
   time {
-    position: relative;
-    margin-right: 1.5em;
+    margin-right: 0.5em;
+  }
 
-    &::after {
-      background: $light;
-      bottom: 1px;
-      content: " ";
-      height: 2px;
-      position: absolute;
-      right: -20px;
-      width: 12px;
-    }
+  .byline-separator {
+    margin-right: 0.5em;
   }
 
   span[itemprop="author"] {
-    border-bottom: 1px dotted $light;
+    a {
+      color: $gray;
+      text-decoration: none;
+      border-bottom: 1px dotted $light;
+
+      &:hover {
+        color: $text-link-blue;
+        border-bottom-color: $text-link-blue;
+      }
+
+      // Remove external link arrow
+      &::after {
+        content: none !important;
+      }
+    }
   }
 }
 
@@ -252,6 +246,38 @@
       border-left: 0;
       padding-left: 0;
       border-top: 1px solid $light;
+    }
+  }
+}
+
+// Post tags (pill style at bottom of post)
+.post-tags {
+  margin-top: 3em;
+  padding-top: 1.5em;
+  border-top: 1px solid $light;
+
+  .tag-pill {
+    display: inline-block;
+    padding: 5px 11px;
+    margin: 4px 6px 4px 0;
+    font-size: $small-font-size;
+    font-weight: $bold-weight;
+    color: $gray;
+    background-color: transparent;
+    border: 1.5px solid $light;
+    border-radius: 20px;
+    text-decoration: none;
+    transition: all 0.2s ease;
+
+    &:hover {
+      color: $text-link-blue;
+      border-color: $text-link-blue;
+      text-decoration: none;
+    }
+
+    // Remove the external link arrow for tag links
+    &::after {
+      content: none !important;
     }
   }
 }

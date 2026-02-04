@@ -1,7 +1,7 @@
 # Site settings
 title: Mike Tannenbaum
 description: >- # site description
-  Strategy & Advocacy for Circularity & Climate
+  Strategy, Operations, & Advocacy for Circularity & Climate Organizations
 lang: en-US # default lang
 timezone: America/New_York # set your timezone
 image: assets/img/mike-SA-headshot-circle.jpeg # This image used for Open Graph more info https://ogp.me/
@@ -11,12 +11,12 @@ mode: dark # default theme "dark" | "light"
 # Profile settings
 author:
   name: Mike Tannenbaum
-  bio: Strategy & Advocacy for Circularity, Sustainability, & Climate • Design Strategist, Facilitator, & Change Agent
+  bio: Strategy, Operations, & Advocacy for Circularity & Climate Organizations • Org Builder & Facilitator
   username: miketannenbaum # general username
   github: miketannenbaum # github username
   twitter: miketnnnbm # twitter username
   facebook: nope # facebook username
-  email: m@mmiketannenbaum.com # email adress
+  email: m@miketannenbaum.com # email adress
   avatar: /assets/img/mike-SA-headshot-circle.jpeg # change with your own avatar
 
 # URL settings

@@ -49,11 +49,3 @@ tags:
 <hr class="section-divider" />
 
 </div>
-<div class="section-content">
-<div class="section-inner sectionLayout--insetColumn">
-<p id="9501" class="graf graf--p graf--leading"><em class="markup--em markup--p-em">? Grab a </em><strong class="markup--strong markup--p-strong"><em class="markup--em markup--p-em">free lesson and worksheet</em></strong><em class="markup--em markup--p-em"> and learn how to begin making changes to the way you approach your work.?</em></p>
-[convertkit form=799566]
-
-</div>
-</div>
-</section></div>

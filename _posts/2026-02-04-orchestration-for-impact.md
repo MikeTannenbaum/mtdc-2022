@@ -13,8 +13,6 @@ tags:
   - on/org-culture
   - on/strategy
 ---
-## The Era of Orchestration: Why Sustainability Work is Organizational Work
-
 [This post was originally published on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7416576642413887488/){:target="_blank"}. I encourage you to share your thoughts in the comments.
 
 Orchestration is emerging as a potential theme for sustainability, climate, and technology leaders alike. Let's poke at it a bit.  

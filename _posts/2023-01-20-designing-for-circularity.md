@@ -13,4 +13,4 @@ But why aren't we able to get rid of a product as easy as we are able to purchas
 
 It's missing, because there's no way to hold producers responsible for the goods—e.g. waste—their businesses are built upon producing.
 
-Which is why we need [[EPR]].
+Which is why we need EPR.

@@ -7,11 +7,9 @@ tags:
   - on/design
   - on/plastic
 ---
-## Video Interview: The Current State of Plastic Waste
-
 [This post was originally published on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7221539756449415172/){:target="_blank"}. I encourage you to share your thoughts in the comments.
 
-[![Reconsidered video interview screenshot](assets/img/reconsidered-screenshot.png)](https://www.youtube.com/watch?v=Nu6HnP_IjW8){:target="_blank"}
+[![Reconsidered video interview screenshot](/assets/img/reconsidered-screenshot.png)](https://www.youtube.com/watch?v=Nu6HnP_IjW8){:target="_blank"}
 
 Plastic waste is a complex mess full of competing priorities, endless tradeoffs, false solutions, regrettable substitutions, differing opinions, misinformation, disinformation, politics, agendas, and so much more. Our world has developed and our civilizations have advanced tremendously because of plastics and the benefits they've afforded, but those haven't come without their costs—and it's well past time to directly address these tradeoffs.  
   
@@ -23,4 +21,4 @@ In this episode of Breaking It Down, you may not get The Answer, but you will mo
   
 My hope is that you come out of watching this with more clarity, more questions, and better understanding of the plastic waste crisis than you had before. If you watch it and think something I said is wrong, please tell me and provide data/sources. Similarly, if you take away something incredibly insightful and perhaps even useful, please tell us in the comments!
 
-[![Mike on YouTube](assets/img/reconsidered-BID.png)](https://www.youtube.com/watch?v=Nu6HnP_IjW8){:target="_blank"}
+[![Mike on YouTube](/assets/img/reconsidered-BID.png)](https://www.youtube.com/watch?v=Nu6HnP_IjW8){:target="_blank"}

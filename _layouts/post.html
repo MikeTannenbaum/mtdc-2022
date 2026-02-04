@@ -34,25 +34,15 @@ layout: compress
       <article itemscope itemtype="https://schema.org/BlogPosting">
 
         <header class="header">
-          {% if page.tags and page.tags != empty %}
-          <div class="tags">
-            {% assign tags = page.tags %}
-            <span itemprop="keywords">
-              {% for tag in tags %}
-              <a class="tag"
-                href="/tags/#{{tag | downcase | slugify}}">{{tag | upcase }}</a>{% unless forloop.last %},{% endunless %}
-              {% endfor %}
-            </span>
-          </div>
-          {% endif %}
           <h1 class="header-title" itemprop="headline">{{ page.title | escape }}</h1>
           {% if page.date %}
           <div class="post-meta">
             <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
-              {{ page.date | date: "%b %d, %Y" }}
+              {{ page.date | date: "%b %-d, %Y" }}
             </time>
+            <span class="byline-separator">. Written By</span>
             <span itemprop="author" itemscope itemtype="https://schema.org/Person">
-              <span itemprop="name">{{ site.author.name }}</span>
+              <a href="/now/" itemprop="name">{{ site.author.name }}</a>
             </span>
             <time hidden datetime="{{ page.modified | date_to_xmlschema }}" itemprop="dateModified">
               {{ page.date | date: "%b %d, %Y" }}
@@ -67,11 +57,21 @@ layout: compress
         <div class="page-content" itemprop="articleBody">
           {% include anchor_headings.html html=content anchorClass="anchor-head" beforeHeading=true h_min=1 h_max=4 %}
           {% if page.tweet %}
-          <p>Comments this article on 
+          <p>Comments this article on
             <a href="https://twitter.com/{{site.twitter}}/status/{{page.tweet}}">Twitter</a>.
           </p>
           {% endif %}
         </div>
+
+        {% if page.tags and page.tags != empty %}
+        <div class="post-tags">
+          <span itemprop="keywords">
+            {% for tag in page.tags %}
+            <a class="tag-pill" href="/tags/#{{tag | downcase | slugify}}">#{{tag}}</a>
+            {% endfor %}
+          </span>
+        </div>
+        {% endif %}
       </article>
     
       {% if page.comments %}

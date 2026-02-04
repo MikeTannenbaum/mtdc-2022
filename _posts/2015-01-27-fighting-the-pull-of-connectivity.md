@@ -40,6 +40,3 @@ It takes dedication, attention and tenacity to make sure digital connection does
 
 Here’s the door. You’re the one that has to walk through it.
 
-<hr />
-
-[mc4wp_form id="50"]

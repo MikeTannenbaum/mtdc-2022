@@ -6,8 +6,6 @@ tags:
   - on/recycling
   - on/design
 ---
-## Help me understand something about recycling and circularity, please.
-
 [This post was originally published on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7176224561028370433/){:target="_blank"}, and generated quite a discussion. I encourage you to share your thoughts in the comments to keep the discussion going.
 
 With all the talk and publicity saying "recycling is a myth," and industry pushback with campaigns saying "recycling is real," I can't help but wonder what the alternative is for a global civilization of 8 billion people relying on materials and packaging basically all day every day.

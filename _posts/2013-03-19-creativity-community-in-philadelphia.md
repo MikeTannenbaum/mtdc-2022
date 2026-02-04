@@ -44,7 +44,3 @@ Admittedly vague, but I’ve already begun exploring ways of bringing people tog
 In order to advance our society, we need to start making things again, and there’s no better time then now. Stay tuned and hopefully something awesomely inspiring comes out of this.
 
 Onward!
-
-<hr />
-
-[mc4wp_form id="50"]
