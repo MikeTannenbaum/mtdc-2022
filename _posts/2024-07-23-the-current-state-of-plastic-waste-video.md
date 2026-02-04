@@ -5,7 +5,7 @@ tags:
   - on/sustainability
   - on/recycling
   - on/design
-  - plast
+  - on/plastic
 ---
 ## Video Interview: The Current State of Plastic Waste
 
